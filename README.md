@@ -58,3 +58,9 @@
 <p class="article-excerpt">
 	百分比計算器是一款實用的線上工具，可幫助您快速解決各種百分比計算問題。
 </p>
+
+<a href="https://Zzn.me/" class="text-decoration-none">Instagram Font Generator </a> 
+<p class="article-excerpt">
+	Quickly generate a variety of Instagram-specific fonts, suitable for personal profiles, post titles or comments.
+</p>
+
